@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7477c56f-7bee-4edc-82db-5d9b0fc63eef" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir1/app1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dir2/app2.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,11 +25,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="10" selection-start-column="10" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dir1/app1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app2.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dir2/app2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -42,6 +80,10 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/log.txt" />
+        <option value="$PROJECT_DIR$/dir2/app2.js" />
+        <option value="$PROJECT_DIR$/dir1/app1.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -59,9 +101,11 @@
     <option name="width" value="1346" />
     <option name="height" value="656" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -71,6 +115,16 @@
             <path>
               <item name="Projekt_PHP_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Projekt_PHP_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projekt_PHP_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projekt_PHP_1" type="462c0819:PsiDirectoryNode" />
+              <item name="dir1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projekt_PHP_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projekt_PHP_1" type="462c0819:PsiDirectoryNode" />
+              <item name="dir2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,11 +136,6 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="Projekt_PHP_1" type="cbb8eebc:String" user="Projekt_PHP_1" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Projekt_PHP_1" type="cbb8eebc:String" user="Projekt_PHP_1" />
-              <item name=".idea" type="cbb8eebc:String" user=".idea" />
             </path>
           </expand>
           <select />
@@ -121,12 +170,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525275718531</updated>
       <workItem from="1525275723541" duration="76000" />
-      <workItem from="1525275843076" duration="7122000" />
+      <workItem from="1525275843076" duration="7621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7198000" />
+    <option name="totallyTimeSpent" value="7697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="226" width="1346" height="656" extended-state="0" />
@@ -174,6 +223,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir2/app2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dir1/app1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
         </state>
       </provider>
     </entry>
